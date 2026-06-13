@@ -6,9 +6,7 @@ I am a multi-disciplinary tech enthusiast exploring the intersections of product
 -  ⚙️ **Development & QA:** Writing clean backend/frontend code and building thorough test mentalities to ensure bug-free deployments.
 - 🎨 **UI/UX & Frontend:** Ideating intuitive interfaces and translating them into responsive layouts.
 - 📊 **Data Science & Operations:** Querying data, uncovering insights, and playing with machine learning architectures.
-<div style="text-align: center;">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVqYzBtMGRpc3JzbTJ1ZWR0OXB4aHhzdmo2ZzRuNTJ6bzZlcm8yMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XE90Rm9DzCVfHb7zTe/giphy.gif" width="300" alt="Lego Wave">
-</div>
+<img src="https://giphy.com/gifs/code-developer-sharepoint-XE90Rm9DzCVfHb7zTe" width="300" alt="Lego Wave" style="display: block; margin: 0 auto;">
 
 ---
 ---
