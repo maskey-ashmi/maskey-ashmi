@@ -19,7 +19,7 @@ I am a multi-disciplinary tech enthusiast exploring the intersections of product
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
 
 </p>
-#### 🎨 Quality Assurance & Design
+####🎨 Quality Assurance & Design
 <p align="left">
   <img src="https://img.shields.io/badge/QA_Automation-007ACC?style=for-the-badge" alt="QA Automation" />
   <img src="https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
